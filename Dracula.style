@@ -1,0 +1,75 @@
+# Styles using 'Dracula' color scheme
+# by oneofai: https://github.com/oneofai/Dracula-for-MWeb
+#
+
+editor
+foreground: fdfdfd # very-light-gray
+background: 282a36 # very-dark-gray
+caret: cfcfc2 #sandstone
+
+H1
+foreground: bd93f9 # purple
+font-style: bold
+
+H2
+foreground: bd93f9 # purple
+font-style: bold
+
+H3
+foreground: bd93f9 # purple
+
+H4
+foreground: 8be9fd # cyan
+
+H5
+foreground: 8be9fd # cyan
+
+H6
+foreground: 8be9fd # cyan
+
+HRULE
+foreground: cfcfc2 # sandstone
+
+LIST_BULLET
+foreground: ff79c6 # pink
+
+LIST_ENUMERATOR
+foreground: ff79c6 # pink
+
+LINK
+foreground: 66d9ef # soft-cyan
+
+AUTO_LINK_URL
+foreground: 66d9ef # soft-cyan
+
+AUTO_LINK_EMAIL
+foreground: 66d9ef # soft-cyan
+
+IMAGE
+foreground: ff5555 # red
+
+REFERENCE
+foreground: 80f1fa8c # yellow, reduced alpha
+
+CODE
+foreground: 50fa7b # green
+
+EMPH
+foreground: ff5555 # red
+font-style: italic
+
+STRONG
+foreground: ffb86c # orange
+font-style: bold
+
+HTML_ENTITY
+foreground: bd93f9 # purple
+
+COMMENT
+foreground: 6272a4 # blue
+
+VERBATIM
+foreground: 50fa7b # dark-yellow
+
+BLOCKQUOTE
+foreground: 66d9ef # soft-cyan
